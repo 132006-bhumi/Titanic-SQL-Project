@@ -24,6 +24,22 @@ This SQL-based analysis includes:
 • Using GROUP BY, ORDER BY, CASE, JOIN, and aggregate functions to uncover trends.
 
 • Answering real-world analytical questions through SQL-only methods.
+# ❓ Key Questions Explored
+✦ How many passengers were onboard the Titanic?
+
+✦ How many passengers survived?
+
+✦ What is the survival rate by gender?
+
+✦ How many passengers embarked from each port?
+
+✦ Who are the youngest and oldest passengers who survived?
+
+✦ Which ticket had the highest fare, and who was the passenger?
+
+✦ Find the survival rate of passengers who were alone vs. with family.
+
+✦ Which cabin prefix (e.g., 'C', 'D', etc.) had the highest survival rate?
 # 💡 Key Insights
 • Females had a significantly higher survival rate than males.
 
@@ -32,5 +48,7 @@ This SQL-based analysis includes:
 • Children (age < 10) had higher survival chances than older adults.
 
 • The embarkation point 'C' (Cherbourg) had a relatively higher survival rate.
+# 📌 Final Thoughts
+This project helped me strengthen my SQL querying skills by working with a structured real-world dataset. It highlights how powerful SQL can be in uncovering trends, identifying anomalies, and answering business-relevant questions directly from the database without external tools. This project can be expanded by connecting SQL output to visualization tools like Power BI, Tableau, or Python libraries for richer dashboards and reports.
 
 • Many records had missing age or cabin information, which was identified using IS NULL
