@@ -51,4 +51,3 @@ This SQL-based analysis includes:
 # 📌 Final Thoughts
 This project helped me strengthen my SQL querying skills by working with a structured real-world dataset. It highlights how powerful SQL can be in uncovering trends, identifying anomalies, and answering business-relevant questions directly from the database without external tools. This project can be expanded by connecting SQL output to visualization tools like Power BI, Tableau, or Python libraries for richer dashboards and reports.
 
-• Many records had missing age or cabin information, which was identified using IS NULL
